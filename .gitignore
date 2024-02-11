@@ -1,0 +1,20 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/mfminimalApi/obj/Debug/net8.0
+/mfminimalApi/obj/mfminimalApi.csproj.nuget.dgspec.json
+/mfminimalApi/obj/mfminimalApi.csproj.nuget.g.props
+/mfminimalApi/obj/project.assets.json
+/mfminimalApi/obj/project.nuget.cache
+/mfminimalApi/.vs/mfminimalApi/FileContentIndex/01fd34d6-1c85-438c-8198-e184a1f0a1bc.vsidx
+/mfminimalApi/.vs/mfminimalApi/FileContentIndex/278a57f6-1826-4bdf-916b-4d3dc9f478b7.vsidx
+/mfminimalApi/.vs/mfminimalApi/FileContentIndex/2fc1ff3c-a19c-4988-8bd3-156fefaa1d5d.vsidx
+/mfminimalApi/.vs/mfminimalApi/FileContentIndex/6e089ecb-8d90-449a-89a3-2d69901a4158.vsidx
+/mfminimalApi/.vs/mfminimalApi/FileContentIndex/85766b50-6c6a-4215-959c-e96c064b725e.vsidx
+/mfminimalApi/.vs/mfminimalApi/FileContentIndex/91a5e9cd-38da-41c8-b6ef-9d6bc491eb97.vsidx
+/mfminimalApi/.vs/mfminimalApi/FileContentIndex/9838e16c-6299-499a-b1ad-e4947a96652e.vsidx
+/mfminimalApi/.vs/mfminimalApi/FileContentIndex/9a43d076-0de0-4929-b7b6-8df2eb729030.vsidx
+/mfminimalApi/.vs/mfminimalApi/FileContentIndex/b54258ea-2a8f-4668-8d18-14cb1508a8a0.vsidx
+/mfminimalApi/.vs/mfminimalApi/FileContentIndex/d4e6045e-bac5-4260-9c37-aef928c19e3e.vsidx
+*.wsuo
